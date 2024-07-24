@@ -93,8 +93,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Data Source: [Insert data source if applicable]
-- [Other acknowledgements]
+- Data Source: [Kaggle]
 
 ---
 
@@ -105,4 +104,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Detailed Results**: Provide a detailed explanation of the results and their implications.
 - **References**: If you used any references or external resources, list them in the acknowledgements or a separate section.
 
-Feel free to adjust the content and structure based on your specific project requirements and details.
